@@ -4,7 +4,7 @@
 
 Project building from CodLab classes on youtube.
 
-[Click here to acess project](https://hudsonsena.github.io/ResponsiveSideNavigationBar/)
+[Click here to access project](https://hudsonsena.github.io/ResponsiveSideNavigationBar/)
 
 # Technologies
 

@@ -16,10 +16,10 @@ Project building from CodLab classes on youtube.
 # Learning
 
 - transitions and transforms
-- pointe-events
+- pointer-events
 - opacity
 - positions and display
-- white space
+- white-space
 - object-fit
 - others
 
